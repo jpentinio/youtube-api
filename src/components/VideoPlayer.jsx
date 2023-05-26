@@ -10,7 +10,7 @@ export function VideoPlayer({ videoId, videoDetails }) {
     height: "600",
     width: "100%",
     playerVars: {
-      autoPlay: 1,
+      autoplay: 1,
     },
   };
 
