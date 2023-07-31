@@ -16,7 +16,6 @@ import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 
 import logo from "../assets/images/logo.png";
 import logoMobile from "../assets/images/ytLogo.png";
-import { Close } from "@mui/icons-material";
 
 export function Appbar(props) {
   const theme = useTheme();
